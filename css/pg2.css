@@ -1,0 +1,48 @@
+pg2.css
+
+body{
+ background-image:url("backkk.jpg");
+  /*background-attachment: fixed;
+  background-size: 200%;
+  background-repeat: no-repeat;
+  background-color: blue;*/
+}
+h2{color: rgb(121, 111, 255); font-weight: 700;
+}
+h3{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: maroon;
+}
+p{
+    color: ghostwhite;
+     font-size: 15px;
+    font-family: sans-serif;}
+    
+    .grid-container{
+      display: grid;
+      grid-template-columns: auto auto;
+      background-color:teal;
+      padding: 5px;
+  }
+  .item1{
+      grid-column: 1;
+  }
+  .item2{
+      grid-column: 2;
+  }
+  .grid2{
+      background-color:teal;
+      padding: 5px;
+  }
+  .grid3{
+      display: grid;
+      grid-template-columns: auto auto;
+      background-color:teal;
+      padding: 5px;
+  }
+  .item3{
+      grid-column: 1;
+  }
+  .item4{
+      grid-column: 2;
+  }

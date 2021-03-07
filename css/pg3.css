@@ -1,0 +1,19 @@
+.grid-container{
+        display: grid;
+        grid-template-columns: auto auto;
+        background-color:rgb(128, 0, 85);
+        padding: 5px;
+    }
+    body{
+        background-image:url("fotos/backkk.jpg");
+        background-attachment: fixed;
+        background-size: 200%;
+        background-repeat: no-repeat;
+        
+    }
+    h2{
+        font-size: large;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: rgb(146, 14, 14);
+    }
+    

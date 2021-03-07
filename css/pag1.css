@@ -1,0 +1,43 @@
+pag1.css
+h2{
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: darkblue;
+}
+h3{
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(236, 220, 77);
+}
+body{
+ background-image:url("../fotos/backkk.jpg");
+  background-attachment: fixed;
+  background-size: 200%;
+  background-repeat: no-repeat;
+}
+
+h2{color: rgb(121, 111, 255); font-weight: 700;
+}
+
+h3{
+  font-size: medium;
+  color: darkturquoise;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    color: ghostwhite;
+     font-size: 15px;
+    font-family: sans-serif;}
+    
+   /*div{
+     background-color: rgb(117, 173, 172);
+     width: 90px;
+     height: 45px;}
+*/
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: rgb(96, 99, 138); 
+    margin: 8%;
+}
